@@ -1,0 +1,21 @@
+# Maven (Binarios compilados)
+target/
+*.jar
+*.war
+*.ear
+
+# IDEs (Archivos de configuración local)
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Logs y Temporales
+*.log
+tmp/
+
+# OS Files
+.DS_Store
+Thumbs.db
